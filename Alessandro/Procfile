@@ -1,1 +1,2 @@
-web: gunicorn Alessandro.wsgi
+web: gunicorn alessandro.wsgi:application
+
